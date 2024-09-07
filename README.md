@@ -1,4 +1,5 @@
 # Hey! I'm Asher Gates 👋
+
 I'm a young app/web developer that really likes learning about code.
 As you can probably tell, I'm new at the whole process, but one thing
 about me is that I like to learn as I go. At the moment I'm learning
