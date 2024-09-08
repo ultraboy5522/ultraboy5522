@@ -10,7 +10,7 @@ me, you should go get back to writing your own story. 😄
 # Some Inspirational Quotes I found 
 These are some quotes I found having to do woth code that I thought were cool:
 
-> The most dangerous phrase in the language is, ‘We’ve always done it this way. – Grace Hopper
+> The most dangerous phrase in the language is, ‘We’ve always done it this way.' – Grace Hopper
 
 It's always important to keep your mind open to other ways of doing something!
 
